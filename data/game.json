@@ -1,0 +1,122 @@
+[
+	{
+		"level": 2,
+		"images": [
+			"require('../../assets/studio.jpeg')",
+			"require('../../assets/studio1.jpeg')",
+			"require('../../assets/studio2.jpeg')",
+			"require('../../assets/studio3.jpeg')"
+		],
+
+		"answer": "rat",
+		"hint": [
+			{ "id": "1", "letter": "r" },
+			{ "id": "2", "letter": "a" },
+			{ "id": "3", "letter": "t" }
+		],
+		"letterQuestion": [
+			{ "id": "1", "letter": "t" },
+			{ "id": "2", "letter": "y" },
+			{ "id": "3", "letter": "r" },
+			{ "id": "4", "letter": "d" },
+			{ "id": "5", "letter": "i" },
+			{ "id": "6", "letter": "a" },
+			{ "id": "7", "letter": "t" },
+			{ "id": "8", "letter": "t" },
+			{ "id": "9", "letter": "e" },
+			{ "id": "10", "letter": "u" },
+			{ "id": "11", "letter": "z" },
+			{ "id": "12", "letter": "x" }
+		]
+	},
+	{
+		"level": 1,
+		"images": ["studio","studio1","studio2","studio3"],
+		"answer": "studio",
+		"hint": [
+			{ "id": "1", "letter": "s" },
+			{ "id": "2", "letter": "t" },
+			{ "id": "3", "letter": "u" },
+			{ "id": "4", "letter": "d" },
+			{ "id": "5", "letter": "i" },
+			{ "Id": "6", "letter": "o" }
+		],
+		"letterQuestion": [
+			{ "id": "1", "letter": "s" },
+			{ "id": "2", "letter": "t" },
+			{ "id": "3", "letter": "y" },
+			{ "id": "4", "letter": "x" },
+			{ "id": "5", "letter": "e" },
+			{ "id": "6", "letter": "d" },
+			{ "id": "7", "letter": "u" },
+			{ "id": "8", "letter": "j" },
+			{ "id": "9", "letter": "m" },
+			{ "id": "10", "letter": "a" },
+			{ "id": "11", "letter": "i" },
+			{ "id": "12", "letter": "o" }
+		]
+	},
+	{
+		"level": 3,
+		"images": [
+			"require('../../assets/studio.jpeg')",
+			"require('../../assets/studio1.jpeg')",
+			"require('../../assets/studio2.jpeg')",
+			"require('../../assets/studio3.jpeg')"
+		],
+
+		"answer": "charge",
+		"hint": [
+			{ "id": "1", "letter": "c" },
+			{ "id": "2", "letter": "h" },
+			{ "id": "3", "letter": "a" },
+			{ "id": "4", "letter": "r" },
+			{ "id": "5", "letter": "g" },
+			{ "id": "6", "letter": "e" }
+		],
+		"letterQuestion": [
+			{ "id": "1", "letter": "e" },
+			{ "id": "2", "letter": "r" },
+			{ "id": "3", "letter": "c" },
+			{ "id": "4", "letter": "k" },
+			{ "id": "5", "letter": "g" },
+			{ "id": "6", "letter": "q" },
+			{ "id": "7", "letter": "e" },
+			{ "id": "8", "letter": "a" },
+			{ "id": "9", "letter": "i" },
+			{ "id": "10", "letter": "s" },
+			{ "id": "11", "letter": "h" },
+			{ "id": "12", "letter": "g" }
+		]
+	},
+	{
+		"level": 4,
+		"images": [
+			"require('../../assets/studio.jpeg')",
+			"require('../../assets/studio1.jpeg')",
+			"require('../../assets/studio2.jpeg')",
+			"require('../../assets/studio3.jpeg')"
+		],
+
+		"answer": "pet",
+		"hint": [
+			{ "id": "1", "letter": "p" },
+			{ "id": "2", "letter": "e" },
+			{ "id": "3", "letter": "t" }
+		],
+		"letterQuestion": [
+			{ "id": "1", "letter": "e" },
+			{ "id": "2", "letter": "c" },
+			{ "id": "3", "letter": "h" },
+			{ "id": "4", "letter": "j" },
+			{ "id": "5", "letter": "k" },
+			{ "id": "6", "letter": "p" },
+			{ "id": "7", "letter": "i" },
+			{ "id": "8", "letter": "i" },
+			{ "id": "9", "letter": "t" },
+			{ "id": "10", "letter": "o" },
+			{ "id": "11", "letter": "o" },
+			{ "id": "12", "letter": "l" }
+		]
+	}
+]
